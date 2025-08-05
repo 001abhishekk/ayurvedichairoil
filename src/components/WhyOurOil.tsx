@@ -3,13 +3,13 @@ import { Star } from 'lucide-react';
 
 const beforeAfterImages = [
   {
-    before: /before-1.jpg?auto=compress&cs=tinysrgb&w=300',
-    after: '/after-1.jpg?auto=compress&cs=tinysrgb&w=300',
+    before: /before-1.jpg',
+    after: '/after-1.jpg',
     title: 'एलोपेसिया एरीटा - 3 महीने का परिणाम'
   },
   {
-    before: '/before-2.jpg?auto=compress&cs=tinysrgb&w=300',
-    after: '/after-2.jpg?auto=compress&cs=tinysrgb&w=300',
+    before: '/before-2.jpg',
+    after: '/after-2.jpg',
     title: 'गंजेपन के धब्बे - 2 महीने का परिणाम'
   }
 ];
