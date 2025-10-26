@@ -3,7 +3,7 @@ import { Star } from 'lucide-react';
 
 const beforeAfterImages = [
   {
-    before: /before-1.jpg',
+    before: '/before-1.jpg',
     after: '/after-1.jpg',
     title: 'एलोपेसिया एरीटा - 3 महीने का परिणाम'
   },
